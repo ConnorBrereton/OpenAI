@@ -1,0 +1,19 @@
+```json
+[
+  {
+    "company_id": 1,
+    "title": "Chimera",
+    "founder": "Alexis"
+  },
+  {
+    "company_id": 2,
+    "title": "Sphinx",
+    "founder": "Nikolas"
+  },
+  {
+    "company_id": 3,
+    "title": "Cerberus",
+    "founder": "Dimitris"
+  }
+]
+```
