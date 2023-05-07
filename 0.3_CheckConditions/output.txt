@@ -1,0 +1,10 @@
+Question 1 - What is the capital of France?
+Answer 1 - The capital of France is Paris.
+Question 2 - What is the square root of 64?
+Answer 2 - The square root of 64 is 8.
+Question 3 - What is the difference between a virus and a bacteria?
+Answer 3 - Viruses and bacteria are both types of microorganisms that can cause illness, but they differ in several ways. For example, viruses require a host cell to reproduce, while bacteria can reproduce on their own. Additionally, antibiotics are effective against bacteria, but not viruses.
+Question 4 - How do I cook a steak?
+Answer 4 - There are many ways to cook a steak, but one popular method is to sear it in a hot pan and then finish it in the oven. The basic steps are to preheat your oven to 400°F (204°C), season your steak with salt and pepper, heat a heavy, oven-safe skillet (such as a cast iron skillet) over high heat until it is very hot, add a tablespoon of oil to the skillet and swirl it around to coat the bottom, carefully add the steak to the skillet and let it sear for 2-3 minutes on each side, transfer the skillet to the preheated oven and cook the steak for an additional 4-6 minutes, until it reaches your desired level of doneness (use a meat thermometer to check the internal temperature), and remove the skillet from the oven and let the steak rest for a few minutes before slicing and serving.
+Question 5 - What is the meaning of life?
+Answer 5 - The meaning of life is a philosophical and existential question that has been debated by scholars, thinkers, and individuals throughout history. There is no one definitive answer to this question, as it can be interpreted in many different ways depending on one's beliefs, values, and experiences. Some people believe that the meaning of life is to pursue happiness, others believe it is to fulfill a specific purpose or destiny, and still others believe that life has no inherent meaning and that we must create our own meaning through our experiences and interactions with the world around us. Ultimately, the meaning of life is a deeply personal and subjective concept that can only be defined by each individual for themselves.
