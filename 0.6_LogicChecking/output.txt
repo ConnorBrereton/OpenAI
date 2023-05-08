@@ -1,0 +1,15 @@
+Let x be the size of the installation in square feet.
+Costs:
+1. Land cost: 100x
+2. Solar panel cost: 250x
+3. Maintenance cost: 100,000 + 10x
+Total cost: 100x + 250x + 100,000 + 10x = 360x + 100,000
+
+Is the developer's solution the same as actual solution just calculated:
+```
+no
+```
+Developer grade:
+```
+incorrect
+```
